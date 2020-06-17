@@ -1,0 +1,8 @@
+* Variables: es la forma en que podemos declarar y almacenar datos en un lenguaje de programación.
+* Strings: Es una cadena de caractéres. Como un hilo con caracteres conectados entre si.
+* Funciones (argumentos, `return`): las funciones son formas de optimizar el código para realizar operaciones
+evitando la repetición de código. Los argumentos son opcionales y me permiten enviar datos (parámetros)
+a dicha función. Return es la palabra reservada que indica lo que devuelve la función (retorno) y se finaliza
+la función automáticamente.
+* Declaraciones `if`: Sirven para tomar decisiones basados en condinciones. Si algo sucede hacer esto, sino hacer lo otro.
+* Valores booleanos (`true`, `false`): Son variables que sirven establecer estados de verdadero o falso y son muy útiles.
