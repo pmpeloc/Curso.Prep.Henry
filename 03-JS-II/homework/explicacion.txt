@@ -1,0 +1,5 @@
+* `for`: es un comando que permite ejecutar instrucciones una X cantidad de veces.
+* `&&`, `||`, `!`: son operadores lógicos, o sea que permiten realizar comparaciones de verdadero o falso entre otros elementos.
+&& = Es el Y (una condición estricta)
+|| = Es el O (una condición no estricta)
+! = Es la Negación (cambia el resultado de la evaluación)
