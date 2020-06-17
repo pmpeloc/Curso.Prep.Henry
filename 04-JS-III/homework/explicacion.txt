@@ -1,0 +1,1 @@
+Arrays son tipos de datos que permiten almacenar distintos tipos de datos dentro de si. Se pueden incrementar y disminuir su contenido según se necesite.
