@@ -1,0 +1,6 @@
+* `prototype`
+* _Constructors_ (de Clases)
+
+Un prototype es la manera en que podemos acceder a métodos que estan definidos en un objeto y que a su vez podemos reutilizar (herencia) en otros objetos
+
+Constructors son funciones que permiten agregar propiedades y valores a una clase.
