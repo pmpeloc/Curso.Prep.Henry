@@ -1,0 +1,16 @@
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+    Objetos: son una forma de almacenar variables similar a los arreglos pero con la diferencia en que no se acceden por índices numéricos sino por claves. Son mejores para
+    usar en estructuras de datos mas complejas. En JavaScript todo es un objeto.
+
+    Propiedades: son las claves para acceder al contenido de un objeto.
+
+    Métodos: son las funciones que se crean dentro de un objeto.
+
+    Bucle for in: permite recorrer el contenido de un objeto (similar al for que se usa en arreglos).
+
+    Notación de puntos vs notación de corchetes: son muy similares pero la diferencia sería que cuando queremos usar variables utilizamos corchetes.
