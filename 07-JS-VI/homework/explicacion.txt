@@ -1,0 +1,1 @@
+* Funciones Callback: es una manera que tiene JavaScript de llamar a una funcion dentro de otra funcion. Se usan los parámetros pero es fundamental no invocar con () sino solo con el nombre de la funcion. También es recomendable utilizar la palabra cb al usar callbacks
